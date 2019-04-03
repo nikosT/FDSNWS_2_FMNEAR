@@ -5,3 +5,5 @@ The Python code (check.py) requests near real-time Events through the FDSNWS-eve
 
 
 The Python code (extract.py) checks if the specific event that was passed as input argument is already (or being) calculated. The current implementation of the Python code will only trigger new events that were not processed before.
+
+Please use the latest ObsPy version!
